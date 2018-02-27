@@ -1,0 +1,18 @@
+$navbar-default-link-color: white;
+$navbar-default-bg: #191970;
+$navbar-default-link-hover-color: yellow;
+$jumbotron-bg: #4169E1;
+$jumbotron-heading-color: black;
+$panel-default-heading-bg: red;
+$panel-footer-bg: red;
+$panel-bg: #AB9D9D;
+$panel-inner-border: black;
+$panel-default-border: black;
+	
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.center {
+    text-align: center;
+}
